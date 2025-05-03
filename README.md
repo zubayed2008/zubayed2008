@@ -15,7 +15,7 @@ Crafting robust, scalable, and secure software solutions with a passion for heal
 
 **Cloud:** Azure (Functions, App Service, CosmosDB, VM, Gateway), AWS (Lambda, S3, Glue, Athena, Kinesis, EC2, RDS, QuickSight, and more)
 
-**Other:** Entity Framework Core, MediatR, AutoMapper, SignalR, Twilio.NET, 
+**Other:** Entity Framework Core, MediatR, AutoMapper, SignalR, Twilio.NET, sequelizer
 
 **What I Do:**
 
