@@ -1,25 +1,23 @@
 👋 Hi, I’m Zubayed Islam
-
 🚀 Senior Software Engineer @ Placovu Inc.
-
 🔗 github.com/zubayed2008
 
-About Me:
+**About Me:**
 Crafting robust, scalable, and secure software solutions with a passion for healthcare technology and cloud-native architectures. I love solving complex problems and building products that make a real impact.
 
-Tech Stack & Tools:
+**Tech Stack & Tools:**
 
-Backend: ASP.NET Core, Node.js
+**Backend:** ASP.NET Core, Node.js
 
-Frontend: Bootstrap, jQuery, Angular, MithrilJS
+**Frontend:** Bootstrap, jQuery, Angular, MithrilJS
 
-Databases: SQL Server, PostgreSQL, Cosmos DB, MySQL, MongoDB
+**Databases:** SQL Server, PostgreSQL, Cosmos DB, MySQL, MongoDB
 
-Cloud: Azure (Functions, App Service, CosmosDB, VM, Gateway), AWS (Lambda, S3, Glue, Athena, Kinesis, EC2, RDS, QuickSight, and more)
+**Cloud:** Azure (Functions, App Service, CosmosDB, VM, Gateway), AWS (Lambda, S3, Glue, Athena, Kinesis, EC2, RDS, QuickSight, and more)
 
-Other: Entity Framework Core, MediatR, AutoMapper, SignalR, Twilio.NET, 
+**Other:** Entity Framework Core, MediatR, AutoMapper, SignalR, Twilio.NET, 
 
-What I Do:
+**What I Do:**
 
 - Architect and develop HIPAA-compliant healthcare platforms
 
@@ -31,7 +29,7 @@ What I Do:
 
 - Mentor teams and drive best practices in software engineering
 
-Featured Projects:
+**Featured Projects:**
 
 - Restaurant POS: Created a full-featured POS with PHP, jQuery, and MySQL
 
