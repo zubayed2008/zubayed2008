@@ -1,6 +1,6 @@
-👋 Hi, I’m Zubayed Islam
-🚀 Senior Software Engineer @ Placovu Inc.
-🔗 github.com/zubayed2008
+👋 Hi, I’m Zubayed Islam  
+🚀 Senior Software Engineer @ Placovu Inc.  
+🔗 github.com/zubayed2008  
 
 **About Me:**
 Crafting robust, scalable, and secure software solutions with a passion for healthcare technology and cloud-native architectures. I love solving complex problems and building products that make a real impact.
