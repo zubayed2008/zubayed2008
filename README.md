@@ -1,5 +1,7 @@
 👋 Hi, I’m Zubayed Islam
+
 🚀 Senior Software Engineer @ Placovu Inc.
+
 🔗 github.com/zubayed2008
 
 About Me:
